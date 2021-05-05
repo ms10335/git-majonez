@@ -2,7 +2,7 @@
 
 int main()
 {
-    std::cout<<"Coders School"<<'\n';
+    std::cout<<"Hello Coders School"<<'\n';
     return 0;
 }
 
