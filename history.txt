@@ -57,7 +57,6 @@
  1013  nvim main.cpp
  1014  git push origin cs
  1015  git checkout master
- 1016  git help merge
  1017  git merge cs
  1018  nvim main.cpp
  1019  git satus
