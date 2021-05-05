@@ -14,6 +14,8 @@
   970  git commit -m"Farewell changed"
   971  git log --oneline
   972  git remote add origin git@github.com:ms10335/git-majonez.git
+       git push -u origin master
+       git checkout -b cs
   973  git log
   974  git branches
   990  git reset --hard HEAD
