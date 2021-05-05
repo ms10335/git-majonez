@@ -28,7 +28,7 @@
  1020  git status
  1021  git add .
  1022  git status
- 1023  git commit -m"Merge cs to master branch"
+ 1023  git commit -m"Merge branch cs"
  1024  ls 
  1025  nvim main.cpp
  1026  g++ -Wall -std=c++17 main.cpp -o main
