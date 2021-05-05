@@ -16,45 +16,10 @@
   972  git remote add origin git@github.com:ms10335/git-majonez.git
   973  git log
   974  git branches
-  975  git branche
-  976  git branch
-  977  git push -u origin master
-  978  git log
-  979  git checkout -b cs
-  980  git branches
-  981  git branch
-  982  git checkout master
-  983  git checkout cs
-  984  ls
-  985  git log
-  986  git log --oneline
-  987  git reset --hard 65fbf04
-  988  git log
-  989  git log --oneline
   990  git reset --hard HEAD
-  991  git log
-  992  git status
-  993  git log
-  994  git reset --hard
-  995  git log 
-  996  git reset --hard 55a498d07c4a39c1e4aee0be72ab321693d902b2
-  997  git log
-  998  git status
-  999  git checkout master
- 1000  git log
- 1001  git checkout cs
- 1002  git log
  1003  nvim main.cpp
- 1004  git status
- 1005  git commit -m"Greetings"
  1006  git add .
- 1007  git status
  1008  git commit -m"Greetings"
- 1009  git log
- 1010  git checkout master
- 1011  nvim main.cpp
- 1012  git checkout cs
- 1013  nvim main.cpp
  1014  git push origin cs
  1015  git checkout master
  1017  git merge cs
